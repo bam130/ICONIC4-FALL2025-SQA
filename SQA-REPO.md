@@ -47,12 +47,12 @@ if FAILURES:
 
 This guarantees that GitHub Actions treats unexpected errors as build failures.
 
-A screenshot of the fuzzer running locally can be inserted here:  
-![][image1]
+A screenshot of the fuzzer running locally:  
+![alt text](https://github.com/bam130/ICONIC4-FALL2025-SQA/blob/main/running_locally.png)
 
-Prompts into logs  
+Prompts into logs:
    
-![][image2]
+![alt text](https://github.com/bam130/ICONIC4-FALL2025-SQA/blob/main/prompts.png)
 
 Forensics Logging Integration
 
